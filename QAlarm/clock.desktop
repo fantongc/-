@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.6
+Name=定时程序
+Type=Application
+Icon=/opt/clock/images/clock.ico
+Exec=/opt/clock/clock.sh

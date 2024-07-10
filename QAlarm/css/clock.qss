@@ -1,0 +1,33 @@
+QTextEdit{
+    color: white;
+    background-color: #1f313f;
+    border-radius: 25px;
+    font:30px;
+}
+
+QTimeEdit{
+    background: #1f313f;
+    color:white;
+    height:50px;
+    width:370px;
+    font:50px;
+
+}
+QPushButton{
+    background: #1f313f;
+    color:white;
+    font:50px;
+}
+QLabel{
+    color:white;
+    font:40px;
+}
+QLabel#version{
+    font:10px;
+}
+QDialog{
+    background: #294154 ;
+}
+QPushButton:hover {
+    color: red;
+}

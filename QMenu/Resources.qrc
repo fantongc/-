@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/exit.png</file>
+        <file>picture/weather.png</file>
+        <file>picture/music.png</file>
+        <file>picture/map.png</file>
+        <file>picture/bofangqi.png</file>
+        <file>picture/naozhong.png</file>
+    </qresource>
+</RCC>
