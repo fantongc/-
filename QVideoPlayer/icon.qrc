@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>Icon/back.png</file>
+        <file>Icon/lessen.png</file>
+        <file>Icon/magnify.png</file>
+        <file>Icon/volumeCross.png</file>
+        <file>Icon/volumeHigh.png</file>
+        <file>Icon/begin.png</file>
+        <file>Icon/pause.png</file>
+        <file>Icon/advance.png</file>
+        <file>Icon/tortoiseTitleIcon.png</file>
+        <file>Icon/zhuy.jfif</file>
+        <file>Icon/OIP-C.jfif</file>
+        <file>Icon/exit.png</file>
+    </qresource>
+</RCC>
